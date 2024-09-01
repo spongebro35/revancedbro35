@@ -1,5 +1,5 @@
 [
-  {
+    {
     "patchName": "Change version code",
     "options": [
       {
@@ -56,11 +56,11 @@
       },
       {
         "key": "SelectedTranslations",
-        "value": "bg-rBG, bn, cs-rCZ, el-rGR, es-rES, fr-rFR, hu-rHU, id-rID, in, it-rIT, ja-rJP, ko-rKR, nl-rNL, pl-rPL, pt-rBR, ro-rRO, ru-rRU, tr-rTR, uk-rUA, vi-rVN, zh-rCN, zh-rTW"
+        "value": ""
       },
       {
         "key": "SelectedStringResources",
-        "value": "af, am, ar, ar-rXB, as, az, b+es+419, b+sr+Latn, be, bg, bn, bs, ca, cs, da, de, el, en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC, es, es-rUS, et, eu, fa, fi, fr, fr-rCA, gl, gu, hi, hr, hu, hy, id, in, is, it, iw, ja, ka, kk, km, kn, ko, ky, lo, lt, lv, mk, ml, mn, mr, ms, my, nb, ne, nl, no, or, pa, pl, pt, pt-rBR, pt-rPT, ro, ru, si, sk, sl, sq, sr, sv, sw, ta, te, th, tl, tr, uk, ur, uz, vi, zh, zh-rCN, zh-rHK, zh-rTW, zu"
+        "value": "en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC"
       }
     ]
   },
@@ -187,7 +187,7 @@
       }
     ]
   },
-  {
+    {
     "patchName": "Translations for YouTube",
     "options": [
       {
@@ -196,11 +196,11 @@
       },
       {
         "key": "SelectedTranslations",
-        "value": "ar, el-rGR, es-rES, de-rDE, fr-rFR, hu-rHU, it-rIT, ja-rJP, ko-rKR, pl-rPL, pt-rBR, ru-rRU, tr-rTR, uk-rUA, vi-rVN, zh-rCN, zh-rTW"
+        "value": ""
       },
       {
         "key": "SelectedStringResources",
-        "value": "af, am, ar, ar-rXB, as, az, b+es+419, b+sr+Latn, be, bg, bn, bs, ca, cs, da, de, el, en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC, es, es-rUS, et, eu, fa, fi, fr, fr-rCA, gl, gu, hi, hr, hu, hy, id, in, is, it, iw, ja, ka, kk, km, kn, ko, ky, lo, lt, lv, mk, ml, mn, mr, ms, my, nb, ne, nl, no, or, pa, pl, pt, pt-rBR, pt-rPT, ro, ru, si, sk, sl, sq, sr, sv, sw, ta, te, th, tl, tr, uk, ur, uz, vi, zh, zh-rCN, zh-rHK, zh-rTW, zu"
+        "value": "en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC"
       }
     ]
   },
