@@ -4,7 +4,7 @@
     "options": [
       {
         "key": "ChangeVersionCode",
-        "value": true
+        "value": false
       },
       {
         "key": "VersionCode",
