@@ -1,23 +1,10 @@
 [
-    {
-    "patchName": "Change version code",
-    "options": [
-      {
-        "key": "ChangeVersionCode",
-        "value": false
-      },
-      {
-        "key": "VersionCode",
-        "value": "2147483647"
-      }
-    ]
-  },
   {
     "patchName": "Custom branding icon for YouTube Music",
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_blue"
+        "value": "mmt"
       },
       {
         "key": "ChangeSplashIcon",
@@ -30,11 +17,11 @@
     "options": [
       {
         "key": "AppNameNotification",
-        "value": "YouTube RVX Music"
+        "value": "YouTube Music"
       },
       {
         "key": "AppNameLauncher",
-        "value": "YouTube RVX Music"
+        "value": "YouTube Music"
       }
     ]
   },
@@ -44,23 +31,6 @@
       {
         "key": "CustomHeader",
         "value": "custom_branding_icon"
-      }
-    ]
-  },
-  {
-    "patchName": "Translations for YouTube Music",
-    "options": [
-      {
-        "key": "CustomTranslations",
-        "value": ""
-      },
-      {
-        "key": "SelectedTranslations",
-        "value": ""
-      },
-      {
-        "key": "SelectedStringResources",
-        "value": "en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC"
       }
     ]
   },
@@ -99,7 +69,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "Reddit RVX"
+        "value": "Reddit"
       }
     ]
   },
@@ -122,20 +92,11 @@
     ]
   },
   {
-    "patchName": "Custom Shorts action buttons",
-    "options": [
-      {
-        "key": "IconType",
-        "value": "youtubeoutline"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding icon for YouTube",
     "options": [
       {
         "key": "AppIcon",
-        "value": "revancify_blue"
+        "value": "mmt"
       },
       {
         "key": "ChangeSplashIcon",
@@ -152,103 +113,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "YouTube RVX"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom double tap length",
-    "options": [
-      {
-        "key": "DoubleTapLengthArrays",
-        "value": "3, 5, 10, 15, 20, 30, 60, 120, 180"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom header for YouTube",
-    "options": [
-      {
-        "key": "CustomHeader",
-        "value": "custom_branding_icon"
-      }
-    ]
-  },
-  {
-    "patchName": "Theme",
-    "options": [
-      {
-        "key": "DarkThemeBackgroundColor",
-        "value": "@android:color/black"
-      },
-      {
-        "key": "LightThemeBackgroundColor",
-        "value": "@android:color/white"
-      }
-    ]
-  },
-    {
-    "patchName": "Translations for YouTube",
-    "options": [
-      {
-        "key": "CustomTranslations",
-        "value": ""
-      },
-      {
-        "key": "SelectedTranslations",
-        "value": ""
-      },
-      {
-        "key": "SelectedStringResources",
-        "value": "en-rAU, en-rCA, en-rGB, en-rIN, en-rXA, en-rXC"
-      }
-    ]
-  },
-  {
-    "patchName": "Visual preferences icons",
-    "options": [
-      {
-        "key": "RVXSettingsMenuIcon",
-        "value": "extension"
-      }
-    ]
-  },
-  {
-    "patchName": "Overlay buttons",
-    "options": [
-      {
-        "key": "IconType",
-        "value": "bold"
-      },
-      {
-        "key": "BottomMargin",
-        "value": "0.0dip"
-      },
-      {
-        "key": "ChangeTopButtons",
-        "value": false
-      }
-    ]
-  },
-  {
-    "patchName": "Settings for YouTube",
-    "options": [
-      {
-        "key": "InsertPosition",
-        "value": "@string/about_key"
-      },
-      {
-        "key": "RVXSettingsMenuName",
-        "value": "ReVanced Extended"
-      }
-    ]
-  },
-  {
-    "patchName": "SponsorBlock",
-    "options": [
-      {
-        "key": "OutlineIcon",
-        "value": false
+        "value": "YouTube"
       }
     ]
   }
