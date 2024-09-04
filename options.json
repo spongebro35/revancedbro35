@@ -17,11 +17,11 @@
     "options": [
       {
         "key": "AppNameNotification",
-        "value": "YouTube Music"
+        "value": "YouTube Music RVX"
       },
       {
         "key": "AppNameLauncher",
-        "value": "YouTube Music"
+        "value": "YouTube Music RVX"
       }
     ]
   },
@@ -69,7 +69,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "Reddit"
+        "value": "Reddit RVX"
       }
     ]
   },
@@ -113,7 +113,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "YouTube"
+        "value": "YouTube RVX"
       }
     ]
   }
