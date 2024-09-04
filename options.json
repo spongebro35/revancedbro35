@@ -5,10 +5,6 @@
       {
         "key": "AppIcon",
         "value": "mmt"
-      },
-      {
-        "key": "ChangeSplashIcon",
-        "value": true
       }
     ]
   },
@@ -17,77 +13,11 @@
     "options": [
       {
         "key": "AppNameNotification",
-        "value": "YouTube Music RVX"
+        "value": "YouTube Music"
       },
       {
         "key": "AppNameLauncher",
-        "value": "YouTube Music RVX"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom header for YouTube Music",
-    "options": [
-      {
-        "key": "CustomHeader",
-        "value": "custom_branding_icon"
-      }
-    ]
-  },
-  {
-    "patchName": "GmsCore support",
-    "options": [
-      {
-        "key": "GmsCoreVendorGroupId",
-        "value": "app.revanced"
-      },
-      {
-        "key": "CheckGmsCore",
-        "value": true
-      },
-      {
-        "key": "PackageNameYouTube",
-        "value": "app.rvx.android.youtube"
-      },
-      {
-        "key": "PackageNameYouTubeMusic",
-        "value": "app.rvx.android.apps.youtube.music"
-      }
-    ]
-  },
-  {
-    "patchName": "Settings for YouTube Music",
-    "options": [
-      {
-        "key": "RVXSettingsMenuName",
-        "value": "ReVanced Extended"
-      }
-    ]
-  },
-  {
-    "patchName": "Custom branding name for Reddit",
-    "options": [
-      {
-        "key": "AppName",
-        "value": "Reddit RVX"
-      }
-    ]
-  },
-  {
-    "patchName": "Change package name",
-    "options": [
-      {
-        "key": "PackageNameReddit",
-        "value": "com.reddit.frontpage"
-      }
-    ]
-  },
-  {
-    "patchName": "Settings for Reddit",
-    "options": [
-      {
-        "key": "RVXSettingsMenuName",
-        "value": "ReVanced Extended"
+        "value": "YouTube Music"
       }
     ]
   },
@@ -97,14 +27,6 @@
       {
         "key": "AppIcon",
         "value": "mmt"
-      },
-      {
-        "key": "ChangeSplashIcon",
-        "value": true
-      },
-      {
-        "key": "RestoreOldSplashAnimation",
-        "value": true
       }
     ]
   },
@@ -113,7 +35,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "YouTube RVX"
+        "value": "YouTube"
       }
     ]
   }
